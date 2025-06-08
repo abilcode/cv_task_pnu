@@ -31,5 +31,7 @@ jupyter>=1.0.0
 ipywidgets>=8.0.0
 
 # Additional for M-series optimization
-tensorflow-metal>=1.0.0  # If using TensorFlow backend
-accelerate>=0.20.0  # For Hugging Face acceleration
+#tensorflow-metal>=1.0.0  # If using TensorFlow backend
+#accelerate>=0.20.0  # For Hugging Face acceleration
+
+timm==1.0.15

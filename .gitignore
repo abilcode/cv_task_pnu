@@ -3,3 +3,7 @@ cv_task
 modeling/object_detection/data/
 modeling/object_detection/.ipynb_checkpoints/
 *.pdf
+example
+*.ckpt
+*.json
+*.safetensors

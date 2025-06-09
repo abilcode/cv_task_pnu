@@ -36,3 +36,6 @@ accelerate>=0.20.0  # For Hugging Face acceleration
 
 # Utils
 ipynb-py-convert<=0.5.0
+
+# YOLO
+ultralytics

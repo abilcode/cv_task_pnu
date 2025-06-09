@@ -7,3 +7,5 @@ example
 *.ckpt
 *.json
 *.safetensors
+lightning_logs
+.DS_Store

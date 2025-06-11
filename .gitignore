@@ -2,6 +2,10 @@
 cv_task
 modeling/object_detection/data/
 modeling/image_classifer/data/
+modeling/image_classifer/car_dataset_split
+modeling/image_classifer/image_classification
+modeling/image_classifer/testing_images
+modeling/image_classifer/training_images
 modeling/object_detection/.ipynb_checkpoints/
 *.pdf
 example
@@ -10,3 +14,5 @@ example
 *.safetensors
 lightning_logs
 .DS_Store
+*.zip
+*.mp4

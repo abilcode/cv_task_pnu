@@ -34,4 +34,6 @@ ipywidgets>=8.0.0
 #tensorflow-metal>=1.0.0  # If using TensorFlow backend
 #accelerate>=0.20.0  # For Hugging Face acceleration
 
+# utils
 timm==1.0.15
+ultralytics

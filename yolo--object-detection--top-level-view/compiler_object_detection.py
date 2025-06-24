@@ -24,8 +24,15 @@ vit_transform = transforms.Compose([
 ])
 
 # Class names (update with your actual class names)
-class_names = ['coupe', 'hatchback', 'mpv', 'pickup', 'sedan', 'sports', 'suv', 'wagon']
-
+class_names = ['bus',
+              'coupe',
+              'hatchback',
+              'mpv',
+              'pickup',
+              'sedan',
+              'sports',
+              'suv',
+              'truck']
 
 def classify_crop(crop_image):
     """Classify cropped image using ViT"""
